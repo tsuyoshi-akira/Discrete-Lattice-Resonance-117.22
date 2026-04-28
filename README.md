@@ -3,6 +3,8 @@
 ## Core Research: Discrete Spatial Lattice Theory
 **Proposer of the 117.22 deg Resonance Model and Space-Time Quantization.**
 
+## [🚀 Launch Online Verification Simulator](https://tsuyoshi-akira.github.io/Discrete-Lattice-Resonance-117.22/Lattice_Resonance_Verification_Unit_v1en.html)
+
 As an Independent Researcher at Tsuyoshi Independent Laboratory, my work focuses on the non-dissipative computational structure of the universe. My primary achievement is the discovery and mathematical formulation of the Discrete Spatial Lattice Theory, which identifies a fundamental constant **Delta = 0.010638**. 
 
 Through high-precision FIB-SEM trajectory analysis, I have observed **perfect convergence** (99.94% accuracy) to this discrete grid at the singular resonance angle of **117.22 deg**, suggesting that physical space operates on a geometric discrete lattice rather than a continuous manifold.
