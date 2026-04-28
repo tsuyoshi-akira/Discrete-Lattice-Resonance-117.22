@@ -1,4 +1,5 @@
 # Discrete Lattice Resonance at Singular Angle 117.22 deg
+[![DOI](https://zenodo.org/badge/1223253250.svg)](https://doi.org/10.5281/zenodo.19845287)
 
 ## Core Research: Discrete Spatial Lattice Theory
 **Proposer of the 117.22 deg Resonance Model and Space-Time Quantization.**
